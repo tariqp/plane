@@ -31,7 +31,7 @@ DEFAULT_STATES = [
     },
     {
         "name": "Todo",
-        "color": "#60646C",
+        "color": "#3E63DD",
         "sequence": 25000,
         "group": StateGroup.UNSTARTED.value,
     },
@@ -46,12 +46,6 @@ DEFAULT_STATES = [
         "color": "#46A758",
         "sequence": 45000,
         "group": StateGroup.COMPLETED.value,
-    },
-    {
-        "name": "Cancelled",
-        "color": "#9AA4BC",
-        "sequence": 55000,
-        "group": StateGroup.CANCELLED.value,
     },
     {
         "name": "Triage",
