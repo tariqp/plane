@@ -42,7 +42,7 @@ DEFAULT_STATES = [
         "group": StateGroup.STARTED.value,
     },
     {
-        "name": "Done",
+        "name": "Shipped",
         "color": "#46A758",
         "sequence": 45000,
         "group": StateGroup.COMPLETED.value,
