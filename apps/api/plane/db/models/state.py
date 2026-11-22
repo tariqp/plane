@@ -48,6 +48,12 @@ DEFAULT_STATES = [
         "group": StateGroup.COMPLETED.value,
     },
     {
+        "name": "Cancelled",
+        "color": "#9AA4BC",
+        "sequence": 55000,
+        "group": StateGroup.CANCELLED.value,
+    },
+    {
         "name": "Triage",
         "color": "#4E5355",
         "sequence": 65000,
