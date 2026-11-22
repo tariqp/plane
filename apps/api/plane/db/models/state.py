@@ -31,7 +31,7 @@ DEFAULT_STATES = [
     },
     {
         "name": "Todo",
-        "color": "#60646C",
+        "color": "#3E63DD",
         "sequence": 25000,
         "group": StateGroup.UNSTARTED.value,
     },
